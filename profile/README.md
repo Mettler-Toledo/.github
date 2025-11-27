@@ -1,4 +1,4 @@
-## ✨ Welcome to Mettler-Toledo Open Source Platform
+## ✨ Welcome to Mettler Toledo Open Source Platform
 **Advancing precision measurement through open collaboration**
 
 Our mission in this space is simple:
