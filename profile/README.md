@@ -1,0 +1,2 @@
+# Mettler-Toledo FOSS
+As part of the open-source community, we are committed to fostering sustainable innovation through active participation in and contribution to Free and Open Source Software (FOSS).
