@@ -16,6 +16,6 @@ To support the on-going journey and promote professional development and growth,
 * **Engage:** Participate in external FOSS communities and report back on best practices
 
 ### Get in touch
-Have questionw or feedback? We are glad to hear from you.
+Have questions or feedback? We are glad to hear from you.
 
 - Reach out to us via - osco@mt.com
